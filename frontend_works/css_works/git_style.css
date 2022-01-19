@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+}
+.fixed{
+    background-color: darkgrey;
+    width: 300px;
+    height: 130px;
+    left:35%;
+    position: fixed;
+    top: 10%;
+
+
+}
+.first{
+    width: 300px;
+    height: 110%;
+    background-color: bisque;
+    left: 35%;
+    position :fixed;
+}

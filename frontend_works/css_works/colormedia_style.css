@@ -1,0 +1,27 @@
+.row{
+    width: auto;
+    height: 400px;
+    background-color:khaki;
+    border: 1px solid brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.col{
+    width: 25%;
+    height:200px;
+    background-color: lawngreen;
+    border: 1px solid hotpink;
+}
+@media(max-width:500px){
+    .col{
+        background-color: indigo;
+    }
+}
+@media(max-width:800px){
+    .col{
+        background-color: lightcoral;
+    }
+
+}

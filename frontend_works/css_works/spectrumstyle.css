@@ -1,0 +1,37 @@
+body{
+    background-color:black;
+
+}
+h1{
+    color:white;
+    text-align:center;
+}
+div{
+    height:110px;
+    width:80px;
+    border:1px solid red;
+    float: left;
+
+}
+.pink{
+    margin-left:100px;
+    margin: right 50px;
+background-color: pink;
+}
+.green{
+    margin-left: 12px;
+    background-color: green;
+
+}
+.white{
+    margin-left: 12px;
+    background-color: ivory;
+}
+.grey{
+    margin-left:12px; 
+    background-color: grey;
+}
+.yellow{
+    margin-left: 12px;
+    background-color: yellow;
+}

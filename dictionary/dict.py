@@ -4,8 +4,8 @@
 #print(dict['Name'])
 
 
-#print("dict['Name']): ", dict['Name'])
-#print("dict['Age']): ", dict['Age'])
+print("dict['Name']): ", dict['Name'])
+print("dict['Age']): ", dict['Age'])
 
 
 

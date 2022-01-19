@@ -1,0 +1,23 @@
+/* TagName or id or className{
+   property:value;
+   property:value;
+
+
+ } */
+
+
+ h1{
+     color: red;
+ }
+ h2{
+     color: #67c734;
+ }
+ #htwo{
+     color: blueviolet;
+ }
+ #second{
+     color: hotpink;
+ }
+ .third{
+     color: navy;
+ }

@@ -3,4 +3,5 @@ a=set()
 for i in range(size):
     element=int(input("enter elemnt"))
     a.add(element)
+
 print(a)

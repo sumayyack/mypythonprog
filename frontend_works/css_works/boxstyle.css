@@ -1,0 +1,11 @@
+div{
+    height: 112px;
+    width: 50%;
+    background-color: coral;
+    border: 2px solid gray;
+    margin-left: 242px;
+    padding: 50px;
+}
+.foot{
+    margin-top: 262px;
+}
