@@ -2,19 +2,28 @@ h2{
     text-align: center;
 }
 .fixed{
-    background-color: darkgrey;
+    background-color: lightblue;
     width: 300px;
     height: 130px;
+   
     left:35%;
     position: fixed;
     top: 10%;
 
 
 }
-.first{
+/*.first{
     width: 300px;
     height: 110%;
     background-color: bisque;
     left: 35%;
     position :fixed;
+*/
+.first{
+    width: 300px;
+    height: 130px;
+    background-color: lightsalmon;
+    left:35%;
+    ali
 }
+

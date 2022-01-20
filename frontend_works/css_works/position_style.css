@@ -1,7 +1,7 @@
 .row{
     height:300px;
     width:60%;
-    background-color: burlywood;
+    background-color: rgb(14, 11, 9);
     position:relative;
     left:10%;
     margin-top: 10px;
@@ -10,29 +10,31 @@
     width:22%;
     height:250px;
     position:absolute;
-    top:20px;
+   top:20px;
+    left:10px;
 }
 .col-1{
     background-color: chocolate;
+    
 }
 .col-2{
     background-color:crimson;
-    left:23%;
+    left:25%;
 }
 .col-3{
     background-color: cyan;
-    left:46%
+    left:49%
 }
 .col-4{
     background-color: darkgrey;
-    left:69%
+    left: 73%;
 }
 .fixed{
     width: 100px;
     height:100px;
     background-color: blue;
     position: fixed;
-    left: 70%;
+    left: 0%;
     top:30%;
 }
 .sticky{
@@ -40,5 +42,5 @@
     height: 100px;
     background-color: lawngreen;
     position: sticky;
-    top: 5%;
+    top: 8%;
 }

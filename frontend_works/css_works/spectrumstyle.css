@@ -7,16 +7,17 @@ h1{
     text-align:center;
 }
 div{
-    height:110px;
-    width:80px;
+    height:300px;
+    width:200px;
     border:1px solid red;
     float: left;
 
 }
 .pink{
     margin-left:100px;
-    margin: right 50px;
-background-color: pink;
+    margin-right:  0px;
+background-color: rgb(54, 34, 37);
+ 
 }
 .green{
     margin-left: 12px;
@@ -34,4 +35,8 @@ background-color: pink;
 .yellow{
     margin-left: 12px;
     background-color: yellow;
+}
+.box{
+    background-color: brown;
+    margin-top:58px ;
 }
